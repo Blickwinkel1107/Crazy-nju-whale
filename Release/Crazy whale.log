@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/12/11 21:38:01。
+     1>项目“E:\文档\Visual Studio 2015\项目\Crazy Whale\Crazy whale version omega\Crazy whale.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2015\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Crazy whale.cpp"
+         Crazy whale.cpp
+       Link:
+         D:\Visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\文档\Visual Studio 2015\项目\Crazy Whale\Crazy whale version omega\Release\Crazy whale.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\文档\Visual Studio 2015\项目\Crazy Whale\Crazy whale version omega\Release\Crazy whale.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\文档\Visual Studio 2015\项目\Crazy Whale\Crazy whale version omega\Release\Crazy whale.lib" /MACHINE:X86 /SAFESEH "Release\Crazy whale.obj"
+         正在生成代码
+         63 of 67 functions (94.0%) were compiled, the rest were copied from previous compilation.
+           15 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         Crazy whale.vcxproj -> E:\文档\Visual Studio 2015\项目\Crazy Whale\Crazy whale version omega\Release\Crazy whale.exe
+     1>已完成生成项目“E:\文档\Visual Studio 2015\项目\Crazy Whale\Crazy whale version omega\Crazy whale.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:05.55
